@@ -1,6 +1,6 @@
 Location Manipulator App
 
-Created by: Saadat Bin Iqbal
+Created by: Suadat Bin Iqbal
 
 A simple Android app to simulate/mock GPS coordinates on your device for testing purposes. This app allows users to set latitude and longitude and view the mocked location in real-time.
 
