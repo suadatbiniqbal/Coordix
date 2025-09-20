@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Erebus GPS Falso</string>
+    <string name="auto_teleport">Teletransporte automático</string>
+    <string name="user_coordinates">Coordenadas do utilizador</string>
+    <string name="fix_the_point">Fixar ponto</string>
+    <string name="enable_logs">Ativar registos</string>
+    <string name="enter_delay">Atraso (ms)</string>
+    <string name="start">Iniciar</string>
+    <string name="enter_coords">Introduza as coordenadas</string>
+    <string name="lat"></string>
+    <string name="lng"></string>
+    <string name="created_by">Criado por Veos</string>
+</resources>
+
+
+
+
+<!--⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀c⠀⠀⠀⠀r⠀⠀⠀⠀e⠀⠀⠀⠀a⠀⠀⠀⠀t⠀⠀⠀⠀e⠀⠀⠀⠀d⠀⠀⠀⠀ ⠀⠀⠀⠀b⠀⠀⠀⠀y⠀⠀⠀⠀ ⠀⠀⠀⠀ν⠀⠀⠀⠀έ⠀⠀⠀⠀ο⠀⠀⠀⠀ς⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-->

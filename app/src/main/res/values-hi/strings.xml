@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إريبوس GPS وهمي</string>
+    <string name="auto_teleport">الانتقال التلقائي</string>
+    <string name="user_coordinates">إحداثيات المستخدم</string>
+    <string name="fix_the_point">تثبيت النقطة</string>
+    <string name="enable_logs">تفعيل السجلات</string>
+    <string name="enter_delay">أدخل التأخير (مللي ثانية)</string>
+    <string name="start">ابدأ</string>
+    <string name="enter_coords">أدخل الإحداثيات</string>
+    <string name="lat">خط العرض</string>
+    <string name="lng">خط الطول</string>
+    <string name="created_by">تم الإنشاء بواسطة Veos</string>
+    <string name="anti_detect">مضاد للكشف</string>
+</resources>

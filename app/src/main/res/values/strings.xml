@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coordix</string>
+    <string name="auto_teleport">Auto Teleport</string>
+    <string name="user_coordinates">User Coordinates</string>
+    <string name="fix_the_point">Fix the Point</string>
+    <string name="enable_logs">Enable Logs</string>
+    <string name="enter_delay">Enter delay (ms)</string>
+    <string name="start">Start</string>
+    <string name="enter_coords">Enter coordinates</string>
+    <string name="lat"></string>
+    <string name="lng"></string>
+    <string name="created_by">Created by Veos</string>
+     <string name="anti_detect">Anti-detect</string>
+</resources>
+
+<!--⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀c⠀⠀⠀⠀r⠀⠀⠀⠀e⠀⠀⠀⠀a⠀⠀⠀⠀t⠀⠀⠀⠀e⠀⠀⠀⠀d⠀⠀⠀⠀ ⠀⠀⠀⠀b⠀⠀⠀⠀y⠀⠀⠀⠀ ⠀⠀⠀⠀ν⠀⠀⠀⠀έ⠀⠀⠀⠀ο⠀⠀⠀⠀ς⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀-->

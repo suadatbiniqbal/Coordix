@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+html,body,#map { height:100%; margin:0; padding:0; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+  var map = L.map('map').setView([0,0], 2);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+    maxZoom:19, attribution:'&copy; OpenStreetMap'
+  }).addTo(map);
+  var marker = L.marker([0,0]).addTo(map);
+
+  function updateMarker(lat, lng) {
+    marker.setLatLng([lat, lng]);
+    map.setView([lat, lng], 15);
+  }
+
+  map.on('click', function(e){
+    var lat = e.latlng.lat.toFixed(6);
+    var lng = e.latlng.lng.toFixed(6);
+    marker.setLatLng([lat, lng]);
+    // Отправляем координаты в Android через подмену URL (без JS‑моста)
+    window.location.href = 'app://' + lat + ',' + lng;
+  });
+</script>
+</body>
+</html>
